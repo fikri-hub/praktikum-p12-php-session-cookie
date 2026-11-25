@@ -1,0 +1,1 @@
+# praktikum-p12-php-session-cookie
